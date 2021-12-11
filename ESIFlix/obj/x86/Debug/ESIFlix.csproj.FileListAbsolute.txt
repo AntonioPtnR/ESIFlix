@@ -1,0 +1,478 @@
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\App.xbf
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\MainPage.xbf
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\ESIFlix.exe
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\resources.pri
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\AppxManifest.xml
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\System.Runtime.dll
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\App.g.i.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\App.g.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\MainPage.g.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\App.xaml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\MainPage.xaml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\App.xbf
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\MainPage.xbf
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ESIFlix.exe
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\priconfig.xml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\resources.resfiles
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\pri.resfiles
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\qualifiers.txt
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+C:\Users\anton\source\repos\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\anton\source\repos\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\App.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\MainPage.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\ESIFlix.exe
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\resources.pri
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\AppxManifest.xml
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Runtime.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\App.g.i.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\App.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\MainPage.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\App.xaml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\MainPage.xaml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\App.xbf
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\MainPage.xbf
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ESIFlix.exe
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\priconfig.xml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\resources.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\pri.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\qualifiers.txt
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\App.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\MainPage.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\ESIFlix.exe
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\resources.pri
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\AppxManifest.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Runtime.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\App.g.i.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\App.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\MainPage.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\App.xaml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\MainPage.xaml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\App.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\MainPage.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ESIFlix.exe
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\priconfig.xml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\resources.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\pri.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\qualifiers.txt
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.Win32.Registry.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\System.Security.Permissions.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.Microsoft.Win32.Registry.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Data.OleDb.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Diagnostics.PerformanceCounter.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\PerfilPage.xbf
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PerfilPage.g.i.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PerfilPage.g.cs
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PerfilPage.xaml
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\PerfilPage.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\PerfilPage.xbf
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jose\Desktop\ESIFlix\bin\x86\Debug\System.Security.Permissions.dll
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PerfilPage.g.i.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PerfilPage.g.cs
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PerfilPage.xaml
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\PerfilPage.xbf
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.Microsoft.Win32.Registry.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Data.OleDb.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Diagnostics.PerformanceCounter.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\jose\Desktop\ESIFlix\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\anton\Downloads\Telegram Desktop\ESIFlix\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\App.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\MainPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\PerfilPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.exe
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\resources.pri
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\AppxManifest.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Win32.Registry.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Runtime.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Security.Permissions.dll
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.g.i.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.g.i.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.xaml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.xaml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.xaml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.xbf
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.exe
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.Microsoft.Win32.Registry.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Data.OleDb.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Diagnostics.PerformanceCounter.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\priconfig.xml
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\pri.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\qualifiers.txt
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\App.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\MainPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\PerfilPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.exe
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\resources.pri
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\AppxManifest.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.Win32.Registry.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Runtime.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Data.OleDb.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\System.Security.Permissions.dll
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.g.i.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.g.i.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.xaml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.xaml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.xaml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\App.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MainPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\PerfilPage.xbf
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.exe
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.Microsoft.Win32.Registry.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Configuration.ConfigurationManager.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Data.OleDb.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Diagnostics.PerformanceCounter.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Security.Cryptography.ProtectedData.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\FxResources.System.Security.Permissions.SR.resw
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\priconfig.xml
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\pri.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\qualifiers.txt
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.en-us.resfiles
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\resources.en-us.resfiles.intermediate
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+D:\Cuarto año\Cuarto año\IPO II\Prácticas\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\App.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\MainPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\PerfilPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\ESIFlix.xr.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\ESIFlix.exe
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\resources.pri
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\AppxManifest.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Core\ESIFlix.exe
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\ESIFlix.build.appxrecipe
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.pri
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\NoiseAsset_256x256_PNG.png
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.winmd
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.Win32.Registry.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Runtime.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Data.OleDb.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\System.Security.Permissions.dll
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ESIFlix.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\App.g.i.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\App.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.i.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\MainPage.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PantallaLogin.g.i.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PantallaLogin.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PerfilPage.g.i.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PerfilPage.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\App.xaml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xaml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\MainPage.xaml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PantallaLogin.xaml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PerfilPage.xaml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\App.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\InformacionPeliculaPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\MainPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PantallaLogin.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\PerfilPage.xbf
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ESIFlix.csproj.CopyComplete
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\Microsoft.Toolkit.Uwp.Notifications.pri.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ESIFlix.exe
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ESIFlix.pdb
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\priconfig.xml
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\resources.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\pri.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\qualifiers.txt
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\anton\Desktop\ESIFlix\ESIFlix\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.winmd_637461514640000000.json

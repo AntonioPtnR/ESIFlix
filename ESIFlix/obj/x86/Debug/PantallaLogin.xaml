@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="ESIFlix.PantallaLogin"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ESIFlix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer>
+        <Grid>
+            <Image HorizontalAlignment="Center" Height="84"  VerticalAlignment="Top" Width="217" Source="/Assets/Images/esiFlixLogo.png" RenderTransformOrigin="0.515,0.306" Margin="0,38,0,0"/>
+            <TextBlock Text="Inicio de sesión" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,198,0,0" FontSize="36"></TextBlock>
+            <TextBox x:ConnectionId='2' x:Name="tbNombreUsuario" HorizontalAlignment="Center"  Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="331" Height="42" FontSize="22" RequestedTheme="Dark" FocusVisualPrimaryBrush="{x:Null}" Background="#66716A6A" BorderBrush="{x:Null}" HorizontalContentAlignment="Center" TextAlignment="DetectFromContent" Margin="0,318,0,0" PlaceholderText="Nombre de usuario"/>
+            <Button x:ConnectionId='3' x:Name="btEntrar" Content="Acceder" Height="48" Width="124"                HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,471,0,0"/>
+            <PasswordBox HorizontalAlignment="Center"  VerticalAlignment="Top" BorderBrush="{x:Null}" FocusVisualPrimaryBrush="#FF574848" FocusVisualSecondaryBrush="#99E82525" Background="#66837B7B" FontSize="22" Width="331" Margin="0,390,0,0" Password="" InputScope="Password" PlaceholderText="Contraseña"/>
+        </Grid>
+    </ScrollViewer>
+</Page>
+

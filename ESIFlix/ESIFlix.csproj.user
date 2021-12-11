@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</Source>
+    <SmallTileSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</SmallTileSource>
+    <MediumTileSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</MediumTileSource>
+    <WideTileSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</WideTileSource>
+    <LargeTileSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</LargeTileSource>
+    <AppIconSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</AppIconSource>
+    <SplashScreenSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\anton\Desktop\Universidad\Cuarto año\IPO II\Prácticas\UWPF\esiFlixLogo.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,161 @@
+﻿<Page
+    x:Class="ESIFlix.PerfilPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ESIFlix"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Background" Value="{ThemeResource ButtonRevealBackground}" />
+            <Setter Property="Foreground" Value="{ThemeResource ButtonForeground}" />
+            <Setter Property="BorderBrush" Value="{ThemeResource ButtonRevealBorderBrush}" />
+            <Setter Property="BorderThickness" Value="2" />
+            <Setter Property="Padding" Value="8,4,8,4" />
+            <Setter Property="HorizontalAlignment" Value="Left" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="FontFamily" Value="{ThemeResource ContentControlThemeFontFamily}" />
+            <Setter Property="FontWeight" Value="Normal" />
+            <Setter Property="FontSize" Value="{ThemeResource ControlContentThemeFontSize}" />
+            <Setter Property="UseSystemFocusVisuals" Value="True" />
+            <Setter Property="FocusVisualMargin" Value="-3" />
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid x:Name="RootGrid" Background="{TemplateBinding Background}">
+
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal">
+
+                                        <Storyboard>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid" />
+                                        </Storyboard>
+                                    </VisualState>
+
+                                    <VisualState x:Name="PointerOver">
+                                        <VisualState.Setters>
+                                            <Setter Target="RootGrid.(RevealBrush.State)" Value="PointerOver" />
+                                            <Setter Target="RootGrid.Background" Value="{ThemeResource ButtonRevealBackgroundPointerOver}" />
+                                            <Setter Target="ContentPresenter.BorderBrush" Value="Transparent"/>
+                                            <Setter Target="ContentPresenter.Foreground" Value="{ThemeResource ButtonForegroundPointerOver}" />
+                                        </VisualState.Setters>
+
+                                        <Storyboard>
+                                            <PointerUpThemeAnimation Storyboard.TargetName="RootGrid" />
+                                        </Storyboard>
+                                    </VisualState>
+
+                                    <VisualState x:Name="Pressed">
+                                        <VisualState.Setters>
+                                            <Setter Target="RootGrid.(RevealBrush.State)" Value="Pressed" />
+                                            <Setter Target="RootGrid.Background" Value="{ThemeResource ButtonRevealBackgroundPressed}" />
+                                            <Setter Target="ContentPresenter.BorderBrush" Value="Black" />
+                                            <Setter Target="ContentPresenter.Foreground" Value="{ThemeResource ButtonForegroundPressed}" />
+                                        </VisualState.Setters>
+
+                                        <Storyboard>
+                                            <PointerDownThemeAnimation Storyboard.TargetName="RootGrid" />
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Disabled">
+                                        <VisualState.Setters>
+                                            <Setter Target="RootGrid.Background" Value="{ThemeResource ButtonRevealBackgroundDisabled}" />
+                                            <Setter Target="ContentPresenter.BorderBrush" Value="{ThemeResource ButtonRevealBorderBrushDisabled}" />
+                                            <Setter Target="ContentPresenter.Foreground" Value="{ThemeResource ButtonForegroundDisabled}" />
+                                        </VisualState.Setters>
+                                    </VisualState>
+                                </VisualStateGroup>
+
+                            </VisualStateManager.VisualStateGroups>
+                            <ContentPresenter x:Name="ContentPresenter"
+                    BorderBrush="{TemplateBinding BorderBrush}"
+                    BorderThickness="{TemplateBinding BorderThickness}"
+                    Content="{TemplateBinding Content}"
+                    ContentTransitions="{TemplateBinding ContentTransitions}"
+                    ContentTemplate="{TemplateBinding ContentTemplate}"
+                    Padding="{TemplateBinding Padding}"
+                    HorizontalContentAlignment="{TemplateBinding HorizontalContentAlignment}"
+                    VerticalContentAlignment="{TemplateBinding VerticalContentAlignment}"
+                    AutomationProperties.AccessibilityView="Raw" />
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+
+    </Page.Resources>
+
+
+   
+    
+
+        <ScrollViewer>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="40"></ColumnDefinition>
+                    <ColumnDefinition Width="70"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:ConnectionId='10' x:Name="tbPerfil" Text="Nombre" FontSize="20"  HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.ColumnSpan="3" Margin="0,0,90,0" Grid.Row="4"/>
+
+
+
+
+
+                <TextBlock x:ConnectionId='11' x:Name="tbFavoritas" Grid.Row="4" Text="Favoritas" TextWrapping="Wrap" FontSize="20" Margin="20,20,0,0" HorizontalAlignment="Left"                                                                                                        FocusVisualPrimaryBrush="{x:Null}" FocusVisualSecondaryBrush="{x:Null}"/>
+                <Rectangle Height="1" Grid.Row="5" Stroke="#FFF9F5F5"  Margin="20,5,0,15" Grid.ColumnSpan="2"/>
+                <GridView x:ConnectionId='12' x:Name="gvFavoritas" Grid.Row="6" Grid.ColumnSpan="2">
+                    <Image x:ConnectionId='21' x:Name="imgFav1" Height="200" Width="152" Margin="20,20,0,0" Stretch="UniformToFill"                             />
+                    <Image x:ConnectionId='22' x:Name="imgFav2" Height="200" Width="152" Stretch="UniformToFill" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0"                             />
+                    <Image x:ConnectionId='23' x:Name="imgFav3" Height="200" Width="152" Margin="20,20,0,0" Stretch="UniformToFill"                             />
+                    <Image x:ConnectionId='24' x:Name="imgFav4" Height="200" Width="152" Margin="20,20,0,0" HorizontalAlignment="Center" VerticalAlignment="Center" Stretch="UniformToFill"                             />
+                    <Image x:ConnectionId='25' x:Name="imgFav5" Height="200" Width="152" Margin="20,20,0,0" Stretch="UniformToFill" HorizontalAlignment="Center" VerticalAlignment="Center"                             />
+                    <Image x:ConnectionId='26' x:Name="imgFav6" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                             />
+                </GridView>
+                <TextBlock x:ConnectionId='13' x:Name="tbVistas"  Grid.Row="7" Text="Vistas" TextWrapping="Wrap" FontSize="20" Margin="20,9,0,0" SelectionHighlightColor="#FFEA2020"                                                                                                                 HorizontalAlignment="Left"/>
+                <Rectangle Height="1" Stroke="#FFF9F5F5" Grid.Row="8" Margin="20,5,0,15" Grid.ColumnSpan="2"/>
+                <GridView x:ConnectionId='14' x:Name="gvVistas" Grid.Row="9" Grid.ColumnSpan="2">
+                    <Image x:ConnectionId='15' x:Name="imgVista1" Height="200" Width="152.5" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="20,20,0,0" Stretch="Fill"                               />
+                    <Image x:ConnectionId='16' x:Name="imgVista2" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                               />
+                    <Image x:ConnectionId='17' x:Name="imgVista3" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                               />
+                    <Image x:ConnectionId='18' x:Name="imgVista4" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                               />
+                    <Image x:ConnectionId='19' x:Name="imgVista5" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                               />
+                    <Image x:ConnectionId='20' x:Name="imgVista6" Height="200" Width="152" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,0,0" Stretch="UniformToFill"                               />
+                </GridView>
+
+
+            </Grid>
+        </ScrollViewer>
+
+
+
+
+
+
+
+
+    
+    
+</Page>
+
